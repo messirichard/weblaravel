@@ -13,5 +13,5 @@
 
 //buat menu
 Route::get('/', function () {
-    return view('template');
+    return view('home.index');
 });

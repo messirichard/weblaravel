@@ -1,4 +1,3 @@
-@extends('home')
 @section('header')
 <div class="row flex-nowrap justify-content-between align-items-center">
     <div class="col-4 pt-1">
